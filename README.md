@@ -36,7 +36,7 @@ This a an example of a machine learning model using support vector machine algor
 <div class="cell text_cell rendered unselected" tabindex="2">
 <div class="inner_cell">
 <div class="text_cell_render rendered_html" tabindex="-1">
-<p><img src="https://github.com/Way4ward17/ML-Support-Vector-Machine-Examples/blob/master/iris_petal_sepal.png" alt="" width="300" height="300" /></p>
+<p><img src="https://github.com/Way4ward17/ML-Support-Vector-Machine-Examples/blob/master/sepal.png" alt="" width="300" height="300" /></p>
 </div>
 </div>
 </div>
